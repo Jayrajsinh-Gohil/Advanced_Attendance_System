@@ -40,7 +40,7 @@ To get started with the project, follow these steps:
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/Gohil-Jayrajsinh/PROJECTS/tree/main/Computer_Vision/pro_1_Attendance_System
+   git clone https://github.com/Gohil-Jayrajsinh/Advanced_Attendance_System
    ```
 
 2. Run the Django server:
